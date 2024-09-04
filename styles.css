@@ -51,9 +51,13 @@ body{
 .header4{
     height: 100px;
     width: 115px;
-    margin-left: 795px;
+/*     margin-left: 795px; */
     float: left;
 }
+.header_5{
+/*     margin-left: 1290px; */
+    height: 100px;
+    width: 200px;
 
 .logo2{
     padding-left:22px;
